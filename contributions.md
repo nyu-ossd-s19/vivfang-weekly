@@ -25,4 +25,4 @@ Replace the first row with your contribution.
 |  2   | [Add Notification Feature](https://github.com/nyu-ossd-s19/tickStop/commit/f746690ea7d78a26b7f3691566caa9bff9f0cb1c)    | Browser Extension   |   I implemented the notification function of our project    |
 |  3   | [Tabi-Clock Pull #14](https://github.com/nyu-ossd-s19/tabi-clock/pull/14)    | Browser Extension    |   I fixed a broken link and added a temporary settings page.    |
 |  3   | [tickStop Issue #2](https://github.com/nyu-ossd-s19/tickStop/issues/2)    | Browser Extension    |   I addressed an issue on our project and merged the changes with my own.    |
-|     |     |     |      |
+|  8  | [Update BYU Cougarettes Page](https://en.wikipedia.org/w/index.php?title=BYU_Cougarettes&oldid=892611579)    |  Wikipedia Contribution   |   I updated the page to include information from 2019, the last update was in 2016.    |
