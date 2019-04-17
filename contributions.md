@@ -26,3 +26,4 @@ Replace the first row with your contribution.
 |  3   | [Tabi-Clock Pull #14](https://github.com/nyu-ossd-s19/tabi-clock/pull/14)    | Browser Extension    |   I fixed a broken link and added a temporary settings page.    |
 |  3   | [tickStop Issue #2](https://github.com/nyu-ossd-s19/tickStop/issues/2)    | Browser Extension    |   I addressed an issue on our project and merged the changes with my own.    |
 |  8  | [Update BYU Cougarettes Page](https://en.wikipedia.org/w/index.php?title=BYU_Cougarettes&oldid=892611579)    |  Wikipedia Contribution   |   I updated the page to include information from 2019, the last update was in 2016.    |
+|  8  | [Update BYU Cougarettes Page](https://en.wikipedia.org/w/index.php?title=BYU_Cougarettes&oldid=892919978)    |  Wikipedia Contribution   |   I fixed a broken link on the BYU Cougarettes Wikipedia Page.    |
